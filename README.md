@@ -26,19 +26,22 @@
 ---
 
 ## 📌 Featured Projects
-- [🌍 Tourism & Travel Guide Platform](https://github.com/eng-nayan-islam/tourism-guide) — React + MongoDB full-stack travel booking app.  
-- [📦 Admin Dashboard](https://github.com/eng-nayan-islam/admin-dashboard) — Responsive dashboard with collapsible sidebar.  
-- [📝 Laravel API](https://github.com/eng-nayan-islam/laravel-api) — Secure REST API with authentication.
+- [🌍 Tourism & Travel Guide Platform](https://gobangla-fc335.web.app/) — React + MongoDB full-stack travel booking app.  
+- [📦 Learning Management System](https://career-corner-bd.web.app/) — Responsive dashboard with collapsible sidebar.  
+- [📝 Laravel MVC](https://github.com/nayan97/techmart) — Secure authentication and Stripe Intregate.
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/eng-nayan-islam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eng.nayanislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/eng-nayan-islam"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nayan-islam-91724a196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nayanislam085@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/nayanislam.devs">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
+✨ Thank You for Visiting My Profile ✨
