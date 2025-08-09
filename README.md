@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://i.ibb.co/4pDNDk1/banner-github.png](https://i.ibb.co.com/fz2nChW3/321958070-515398813988696-6868402140889369394-n.jpg" alt="Welcome Banner" width="100%">
+<img src="https://i.ibb.co.com/fz2nChW3/321958070-515398813988696-6868402140889369394-n.jpg" alt="Welcome Banner" width="100%">
 
 # Hi there, I'm Nayan Islam 👋
 
